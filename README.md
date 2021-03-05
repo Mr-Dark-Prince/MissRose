@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://app.codacy.com/manual/mr-dark-prince/missrose/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=cyan&logo=codacy&logoColor=yellow&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://app.codacy.com/manual/mr-dark-prince/missrose/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=cyan&logo=codacy&logoColor=white&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/mr-dark-prince/missrose"> <img src="https://img.shields.io/github/repo-size/mr-dark-prince/missrose?color=cyan&logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
