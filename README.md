@@ -15,6 +15,6 @@
 ```
 1 Fork the Repository
 2 Edit config.py and add values api_id, api_hash and your bot token
-3 Create an app Heroku and connect heroku with your github repository 
+3 Create an app on Heroku and connect heroku with your github repository 
 4 Manual Deploy 
 ```
