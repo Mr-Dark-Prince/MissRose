@@ -1,4 +1,5 @@
-# © Mr_Dark_Prince
+# © Mr_D_P
+
 from pyrogram import Client, filters
 from pyrogram.types import (
     InlineKeyboardButton,
